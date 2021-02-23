@@ -39,7 +39,7 @@ Votre projet doit fonctionner en hors connexion sur votre machine locale, il est
 
    Plusieurs fonts sont utilisées sur la page web d'origine, nous n'allons pas nous attarder à les restituer avec exactitude.
 
-   Vous intégrerai les principaux fonts sur les éléments ci-dessous.
+   Vous intégrerez les principaux fonts sur les éléments ci-dessous.
 
    1. Body :  GothamBook
    2. Titres Séjourner, offres , savourer, siroter, évènements : Snell Roundhand
