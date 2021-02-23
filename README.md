@@ -22,7 +22,7 @@ Votre projet doit fonctionner en hors connexion sur votre machine locale, il est
 
    Vous devez être capable de justifier et argumenter vos choix lors de la validation de ce zoning.
 
-![](C:/Users/glodi/Desktop/projets/andy/conception/zoning_detail.jpg)
+![](conception/zoning_detail.jpg)
 
 2. Après validation de votre zoning
    
